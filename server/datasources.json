@@ -1,0 +1,7 @@
+{
+  "db": {
+    "url": "mongodb://rpeacock:VioletSpice93@ds127655.mlab.com:27655/reactloopback",
+    "name": "db",
+    "connector": "loopback-connector-mongodb"
+  }
+}
